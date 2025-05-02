@@ -212,7 +212,7 @@ const Footer = () => {
                 sx={{ mb: 2, display: "flex", alignItems: "center" }}
               >
                 <EmailIcon sx={{ mr: 1, fontSize: "1.2rem" }} />
-                <Typography variant="body2">info@globalmart.com</Typography>
+                <Typography variant="body2">ritikporwal710@gmail.com</Typography>
               </Box>
             </Box>
           </Grid>
