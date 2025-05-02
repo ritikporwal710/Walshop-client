@@ -115,10 +115,10 @@ const Footer = () => {
         {/* Logo and description section */}
         <Box sx={{ mb: 5 }}>
           <Typography variant="h5" fontWeight="bold" gutterBottom>
-            Global Mart
+            Walshop - Build Your Shop
           </Typography>
           <Typography variant="body2" sx={{ maxWidth: "600px" }}>
-            Your one-stop shop for all your shopping needs. Quality products at
+            Your one-stop shop for all your shopping needs for your shop. Quality products at
             affordable prices.
           </Typography>
         </Box>
@@ -296,7 +296,7 @@ const Footer = () => {
 
         {/* Copyright */}
         <Typography variant="body2" align="center" sx={{ opacity: 0.8 }}>
-          © {new Date().getFullYear()} Global Mart. All rights reserved.
+          © {new Date().getFullYear()} Walshop. All rights reserved.
         </Typography>
       </Container>
 
