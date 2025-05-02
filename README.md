@@ -93,7 +93,7 @@ walshop/
 Create a `.env` file in the root directory with the following variables:
 
 ```
-VITE_API_URL=your_api_url_here
+VITE_API_URL=https://walshop-client.onrender.com/
 ```
 
 ## 🤝 Contributing
@@ -110,5 +110,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 📞 Contact
 
-For any questions or suggestions, please reach out to [your-email@example.com](mailto:your-email@example.com)
+For any questions or suggestions, please reach out to [ritikporwal710@gmail.com](mailto:ritikporwal710@gmail.com)
 
