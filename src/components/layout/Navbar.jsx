@@ -364,7 +364,7 @@ const Navbar = () => {
           >
             {/* ShopEasy
              */}
-            GlobalMart
+            Walshop - Build Your Shop
           </Typography>
 
           {!isMobile && (
