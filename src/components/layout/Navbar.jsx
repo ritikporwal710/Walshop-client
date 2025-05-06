@@ -364,7 +364,9 @@ const Navbar = () => {
           >
             {/* ShopEasy
              */}
-            Walshop - Build Your Shop
+{/*             Walshop - Build Your Shop */}
+              <span style={{ display: { xs: 'none', md: 'inline' } }}>Walshop - Build Your Shop</span>
+  <span style={{ display: { xs: 'inline', md: 'none' } }}>Walshop</span>
           </Typography>
 
           {!isMobile && (
