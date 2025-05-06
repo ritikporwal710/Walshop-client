@@ -2,7 +2,8 @@ import axios from "axios";
 
 const axiosInstance = axios.create({
   // baseURL: "http://localhost:8080",
-  baseURL: "https://walshop-service.onrender.com",
+  // baseURL: "https://walshop-service.onrender.com",
+  baseURL: "http://3.27.8.162:8080",
   withCredentials: true,
 });
 
